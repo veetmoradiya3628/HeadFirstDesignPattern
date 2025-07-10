@@ -1,4 +1,6 @@
-package builder;
+package builder.coffees;
+
+import builder.Beverage;
 
 public class HouseBlend extends Beverage {
 
